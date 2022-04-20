@@ -1,0 +1,5 @@
+*.pkl
+*.mat
+_DS_Store
+*.zip
+*.pickle
